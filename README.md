@@ -5,7 +5,8 @@ The idea of this work is fine-tuning and personalizing compression ratios of hea
 In order to decrease the number of user feedbacks and thus enable a practical implementation of the personalized compression, first a reward function is considered to model hearing preferences of a user in an asynchronous manner. This is achieved by carrying out A/B comparison between instances of two different compressed audios. Then, an agent is trained to maximize reward. Following figure shows a block diagram of this approach:
 
 ![Screen Shot 2021-08-22 at 7 42 07 PM](https://user-images.githubusercontent.com/49213632/130375788-4ca28908-eb58-4540-9e3f-944a7ec6f8b6.png)
- Figure 1:  Block diagram of proposed approach.
+
+Figure 1:  Block diagram of proposed approach.
 
 Below shows how data is passes through different blocks of the personalization framework both in training and testing modes. Please refer to [1] for more details.
 
