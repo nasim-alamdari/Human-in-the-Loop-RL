@@ -16,3 +16,11 @@ Figure 2 Developed personalized compression DRL framework for (a) training mode 
 
 
 [1] N.Alamdari, E.Lobarinas, N.Kehtarnavaz, “Personalization of Hearing Aid Compression by Human-in-the-Loop Deep Reinforcement Learning”, IEEE Access, vol. 8, pp. 203503-203515, 2020. 
+
+|**Link**|Description
+|:-------|:----------
+|https://ieeexplore.ieee.org/document/9247199| N.Alamdari, E.Lobarinas, N.Kehtarnavaz, “Personalization of Hearing Aid Compression by Human-in-the-Loop Deep Reinforcement Learning”, IEEE Access, vol. 8, pp. 203503-203515, 2020. 
+
+## Getting Started
+
+A [User's Guide](UsersGuide-CompressionFitting.pdf) is provided which describes how to run the codes on smartphone platforms.
