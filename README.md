@@ -6,7 +6,7 @@ In order to decrease the number of user feedbacks and thus enable a practical im
 
 ![Screen Shot 2021-08-22 at 7 42 07 PM](https://user-images.githubusercontent.com/49213632/130375788-4ca28908-eb58-4540-9e3f-944a7ec6f8b6.png)
 
-Figure 1:  Block diagram of proposed approach.
+Figure 1:  Block diagram of Human-in-the-Loop Deep Reinforcement Learning.
 
 Below shows how data is passes through different blocks of the personalization framework both in training and testing modes. Please refer to [1] for more details.
 
