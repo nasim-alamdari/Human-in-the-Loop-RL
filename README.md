@@ -22,4 +22,4 @@ Figure 2 Developed personalized compression DRL framework for (a) training mode 
 
 ## Getting Started
 
-A [User's Guide](UsersGuide.pdf) is provided which describes how to run the codes on smartphone platforms.
+A [User's Guide](UsersGuide.pdf) is provided which describes how to run the codes.
